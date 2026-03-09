@@ -30,7 +30,3 @@ An analytics platform for tracking web activity.
 - Improving backend architecture and system design
 - Building production-style backend services
 - Deepening knowledge of databases and distributed systems
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=C0deWeather&show_icons=true)
