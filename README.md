@@ -14,17 +14,6 @@ MySQL
 Docker  
 RabbitMQ  
 
-## Current Projects
-
-**NoteSphere**  
-A backend system for a note-taking application with authentication, structured APIs, and database persistence.
-
-**Email Service**  
-A background service that consumes messages from RabbitMQ and sends transactional emails.
-
-**Monitr**  
-An analytics platform for tracking web activity.
-
 ## What I'm Working On
 
 - Improving backend architecture and system design
