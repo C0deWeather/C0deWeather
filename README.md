@@ -24,7 +24,7 @@ Python · FastAPI · JavaScript · Node.js · Express · MongoDB · PostgreSQL �
 - **[LLY Bank — sandbox banking API](https://github.com/C0deWeather/lly-bank)**  
   Node.js, Express, and MongoDB API integrating a NIBSS sandbox for account verification and transfers, with JWT authentication and role-based access.
 
-- **[Student Manager API](https://github.com/C0deWeather/student-manager-api)**  
-  Express REST API practising CRUD, request validation, and consistent JSON errors. Uses an in-memory store.
+- **[Distributed Notification System](https://github.com/leothatguy/hng13-be-team-97-distributed-notification-system)**  
+  Contributed the Python email service to a team-built notification system using RabbitMQ, Redis, and SMTP, with template rendering and delivery-status tracking. [Merged contribution](https://github.com/leothatguy/hng13-be-team-97-distributed-notification-system/pull/1).
 
 Currently deepening my understanding of backend architecture, database design, and reliable third-party API integrations.
