@@ -1,6 +1,6 @@
 # Hi, I'm Bright Frank
 
-Backend developer building APIs with **Python** and **Node.js**. Seeking a **backend engineering internship** where I can contribute, learn from code reviews, and grow as an engineer.
+Backend developer building APIs with **Python** and **Node.js**. I like clean architecture, useful software, and understanding why things work—not just that they do.
 
 I focus on API design, database integration, authentication, and clear documentation.
 
